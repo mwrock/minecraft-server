@@ -1,0 +1,1 @@
+default['minecraft']['version'] = '1.7.2'
